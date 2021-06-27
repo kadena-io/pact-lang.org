@@ -29,10 +29,10 @@ ___
 
 ## **Hello World Overview**
 
-To get started, navigate to the Pact online editor at <a href="pact.kadena.io/" target="_blank">pact.kadena.io/</a>. Once on the site, you can open the “Hello World” module. To do this, navigate to the module explorer on the tool panel and open the “Hello World” example.
+To get started, navigate to the Pact online editor at <a href="https://pact.kadena.io/" target="_blank">pact.kadena.io/</a>. Once on the site, you can open the “Hello World” module. To do this, navigate to the module explorer on the tool panel and open the “Hello World” example.
 
 !!! Note
-      If you’re not familiar with the module explorer, you can learn more <a href="http://pactlang.org/beginner/pact-online-editor/#module-explorer" target="_blank">here</a>.
+      If you’re not familiar with the module explorer, you can learn more <a href="https://pactlang.org/beginner/online-editor/#module-explorer" target="_blank">here</a>.
 
 You can also copy the code below and paste it into your editor.
 
